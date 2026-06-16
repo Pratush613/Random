@@ -1,10 +1,4 @@
 {
-  "09bb38a6-5ba0-43f8-90e4-fc29ad240315": {
-    "name": "dspratush",
-    "kind": "couchdb",
-    "updatedAt": "2026-06-16T09:36:23.262Z",
-    "contentHash": "fb3ef5ed30ceb5dfef79929f542bc5af2409f8bd2490cfb46b9ec60b2e067141"
-  },
   "da067345-820e-46e2-b526-caba5eda52b9": {
     "name": "pratush",
     "kind": "snowflake",
