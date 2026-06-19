@@ -1,0 +1,13 @@
+{
+  "id": "98c3fda7-2019-425b-9406-9ddfe9d8f932",
+  "name": "redis1",
+  "options": {
+    "query": "PING give me Pong",
+    "transformationLanguage": "javascript",
+    "enableTransformation": false
+  },
+  "dataSourceId": "b03cfd6f-4dcf-4854-bfab-db5e2afab4f1",
+  "appVersionId": "83d67984-7e54-4273-982a-8cb1078d02b0",
+  "kind": "redis",
+  "dataSourceType": "default"
+}
