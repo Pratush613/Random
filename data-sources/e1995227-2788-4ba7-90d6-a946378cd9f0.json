@@ -1,0 +1,23 @@
+{
+  "id": "e1995227-2788-4ba7-90d6-a946378cd9f0",
+  "name": "pratush1",
+  "kind": "snowflake",
+  "type": "default",
+  "options": {
+    "development": {
+      "auth_type": "basic",
+      "grant_type": "authorization_code",
+      "allow_dynamic_connection_parameters": false
+    },
+    "production": {
+      "auth_type": "basic",
+      "grant_type": "authorization_code",
+      "allow_dynamic_connection_parameters": false
+    },
+    "staging": {
+      "auth_type": "basic",
+      "grant_type": "authorization_code",
+      "allow_dynamic_connection_parameters": false
+    }
+  }
+}
