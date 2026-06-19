@@ -1,0 +1,13 @@
+{
+  "id": "13d033f0-9c67-4769-98b9-1029dc8e7df3",
+  "name": "test-module",
+  "type": "module",
+  "slug": "b27646c2-94c0-4993-a7cb-faffd3a43c92",
+  "isPublic": false,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "icon": "shield",
+  "tooljetVersion": "3.21.45-beta-ee"
+}
