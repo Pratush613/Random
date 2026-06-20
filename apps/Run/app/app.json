@@ -1,0 +1,13 @@
+{
+  "id": "d10345a3-2d72-474a-9bde-8982ffbe3c3a",
+  "name": "Run",
+  "type": "front-end",
+  "slug": "146f4fa0-a5a8-43e0-ab0a-d7ac6f297da0",
+  "isPublic": false,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "icon": "sentfast",
+  "tooljetVersion": "3.21.45-beta-ee"
+}
